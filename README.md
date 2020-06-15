@@ -1,2 +1,2 @@
 # Trabajo
-[Primer Texto](https://github.com/JAlejandroCorreaVargas/Trabajo.git)
+[Segun Texto](https://github.com/JAlejandroCorreaVargas/Trabajo.git)
